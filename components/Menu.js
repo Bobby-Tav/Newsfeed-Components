@@ -31,10 +31,7 @@ function MenuMaker(arr){
   menuBtn.addEventListener('click', event =>{
     menu.classList.toggle('menu--open')
   })
-
-
   
-
   return menu;
 }
 
